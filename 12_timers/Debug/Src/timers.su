@@ -1,0 +1,2 @@
+../Src/timers.c:11:6:tim2_1hz_init	4	static
+../Src/timers.c:27:6:tim2_1hz_interrupt	4	static

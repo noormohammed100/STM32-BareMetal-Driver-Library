@@ -1,0 +1,2 @@
+../Src/timers.c:11:6:tim2_1hz_init	1
+../Src/timers.c:27:6:tim2_1hz_interrupt	1
